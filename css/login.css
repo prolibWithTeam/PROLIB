@@ -166,6 +166,7 @@ nav {
     border: none;
     border-bottom: 3px solid #2E7DC6;
     height: 2.5vw;
+    font-size: 1.9vw;
   }
   .inputs > input::placeholder {
     font-size: 1.9vw;
@@ -235,6 +236,5 @@ nav {
       display: grid;
       grid-template-columns: repeat(6, 13.80%);
       grid-template-rows: 1.2fr 4fr 0.5fr;
-      
-  }
+    }
   }
